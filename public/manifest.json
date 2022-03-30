@@ -1,0 +1,9 @@
+{
+  "name": "NASA app",
+  "short_name": "nasa_app",
+  "theme_color": "#FFF",
+  "background_color": "#FFF",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "."
+}
